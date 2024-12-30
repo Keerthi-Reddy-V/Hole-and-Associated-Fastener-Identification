@@ -49,10 +49,6 @@ Other prerequisites:
 
 ![Result](images/img2.jpg?raw=true "Title")
 
-## Authors
-
-* **Shashank Sharma** 
-
 ## Acknowledgments
 
 * https://www.pyimagesearch.com/
