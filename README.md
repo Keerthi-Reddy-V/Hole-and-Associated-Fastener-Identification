@@ -49,7 +49,7 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/img2.jpg?raw=true "Title")
+![Result](OneDrive/Desktop/proo/object-size-master-1/object-size-master/images/img2.jpg?raw=true "Title")
 
 ## Acknowledgments
 
